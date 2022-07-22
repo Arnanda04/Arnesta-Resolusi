@@ -1,0 +1,4 @@
+Rencana Bootcamp Data Science
+-Dasar Python
+-Dasar Excel
+-Literasi Data

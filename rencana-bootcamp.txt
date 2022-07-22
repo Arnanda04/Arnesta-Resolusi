@@ -4,3 +4,4 @@ Rencana Bootcamp Data Science
   * OOP
 -Dasar Excel
 -Literasi Data
+-Webinar Data 

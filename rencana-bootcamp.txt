@@ -1,0 +1,6 @@
+Rencana Bootcamp Data Science
+-Dasar Python
+  * Tipe Data
+  * OOP
+-Dasar Excel
+-Literasi Data

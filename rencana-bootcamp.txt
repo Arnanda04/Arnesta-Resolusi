@@ -2,6 +2,8 @@ Rencana Bootcamp Data Science
 -Dasar Python
   * Tipe Data
   * OOP
+  * Function
 -Dasar Excel
+  * Sortir
 -Literasi Data
 -Webinar Data 

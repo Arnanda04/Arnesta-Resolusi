@@ -8,3 +8,4 @@ Rencana Bootcamp Data Science
   * Sortir
 -Literasi Data
 -Webinar Data 
+- Belajar Machine Learning
